@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+This is a demo webpage for paper Two-Pathway Style Embedding for Arbitrary Voice Conversion
+- - -
+## Abstract
+Arbitrary voice conversion, in words, zero-shot voice conversion has attracted more attention of researchers. Although disentangling the linguistic and style representations for acoustic features is an effective way to achieve zero-shot voice conversion, how to convert a natural speaker style is challenging because the diversities of speech and the difficulties of completely decoupling.  For this, in this paper, we propose a Two-Pathway Style Embedding Voice Conversion framework (TPSE-VC) for realistic and natural speech conversion by simultaneously embedding sentence-level and phoneme-level style information. A novel attention mechanism is proposed  to attend to implement implicit alignment for style timber and content phoneme, and then embedding a phoneme-level style representation. In addition,  we consider embedding all time steps of style audio into a fixed-length vector to get the sentence-level style representation. Moreover TPSE-VC dose not require any pre-trained models, and is only trained with non-parallel data. Experimental results demonstrate that our method outperforms  state-of-the-art results on zero-shot voice conversion.
+- - -
+### Note all the speakers of sampled utterances are unseen in training stage.
+- - -
 
-You can use the [editor on GitHub](https://github.com/XXxin1/TPSEVC-Demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XXxin1/TPSEVC-Demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
