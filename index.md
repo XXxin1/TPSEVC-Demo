@@ -15,3 +15,4 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | **Chou et.al.** | <audio src="wavs/p249_169_p257_035/converted_adainvc.wav" controls preload></audio> |
 | **AutoVC** | <audio src="wavs/p249_169_p257_035/converted_autovc.wav" controls preload></audio> |
 | **VQVC+** | <audio src="wavs/p249_169_p257_035/converted_vqvc+.wav" controls preload></audio> |
+| --- | --- | 
