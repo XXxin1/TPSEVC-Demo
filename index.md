@@ -51,7 +51,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p264_025_p271_194/origin_target_p271_194.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p264_025_p271_194/vocoder_targep271_194.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p264_025_p271_194/vocoder_targetp271_194.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p264_025_p271_194/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -70,7 +70,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p239_043_p255_090/origin_target_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_targep255_090.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_targe_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -89,7 +89,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p255_002_p249_164/origin_target_p249_164.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p255_002_p249_164/vocoder_targep249_164.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p255_002_p249_164/vocoder_targetp249_164.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p255_002_p249_164/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -108,7 +108,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p255_034_p295_084/origin_target_p295_084.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p255_034_p295_084/vocoder_targep295_084.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p255_034_p295_084/vocoder_targetp295_084.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p255_034_p295_084/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -127,7 +127,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p272_353_p292_078/origin_target_p292_078.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p272_353_p292_078/vocoder_targep292_078.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p272_353_p292_078/vocoder_targetp292_078.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p272_353_p292_078/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -146,7 +146,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p292_418_p245_236/origin_target_p245_236.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p292_418_p245_236/vocoder_targep245_236.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p292_418_p245_236/vocoder_targetp245_236.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p292_418_p245_236/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -166,7 +166,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p249_173_p247_449/origin_target_p247_449.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p249_173_p247_449/vocoder_targep247_449.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p249_173_p247_449/vocoder_targetp247_449.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p249_173_p247_449/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -187,11 +187,11 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p292_418_p245_236/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p292_418_p245_236/converted_adainvc.wav" controls preload></audio> |
+| *-adv* | <audio src="wavs/p292_418_p245_236/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
-| **AutoVC** | <audio src="wavs/p292_418_p245_236/converted_autovc.wav" controls preload></audio> |
+| *-sentence* | <audio src="wavs/p292_418_p245_236/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
-| **VQVC+** | <audio src="wavs/p292_418_p245_236/converted_vqvc+.wav" controls preload></audio> |
+| *-phoneme* | <audio src="wavs/p292_418_p245_236/converted_vqvc+.wav" controls preload></audio> |
 | :--- | :--- |
 
 - - -
