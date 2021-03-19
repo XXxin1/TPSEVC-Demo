@@ -5,6 +5,6 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 - - -
 
 <br>
-#### **Note all the speakers of sampled utterances are unseen in training stage.**- - -
+**Note all the speakers of sampled utterances are unseen in training stage.**- - -
 
 
