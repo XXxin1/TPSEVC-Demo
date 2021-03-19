@@ -171,7 +171,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p249_173_p247_449/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **-adv** | <audio src="wavs/p249_173_p247_449/converted_adainvc.wav" controls preload></audio> |
+| **-adv** | <audio src="wavs/p249_173_p247_449/-adv.wav" controls preload></audio> |
 | :--- | :--- |
 | **-sentence** | <audio src="wavs/p249_173_p247_449/-sentence.wav" controls preload></audio> |
 | :--- | :--- |
