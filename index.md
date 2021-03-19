@@ -177,5 +177,21 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | **-phoneme** | <audio src="wavs/p249_173_p247_449/-phoneme.wav" controls preload></audio> |
 | :--- | :--- |
 
+| **Transcription** | "It is not too late to get on board." |
+| :--- | :--- |
+| **Source** | <audio src="wavs/p292_418_p245_236/origin_source_p292_418.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target** | <audio src="wavs/p292_418_p245_236/origin_target_p245_236.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target (Vocoder)** | <audio src="wavs/p292_418_p245_236/vocoder_targep245_236.wav" controls preload></audio> |
+| :--- | :--- |
+| **Ours** | <audio src="wavs/p292_418_p245_236/converted_proposed.wav" controls preload></audio> |
+| :--- | :--- |
+| **Chou et.al.** | <audio src="wavs/p292_418_p245_236/converted_adainvc.wav" controls preload></audio> |
+| :--- | :--- |
+| **AutoVC** | <audio src="wavs/p292_418_p245_236/converted_autovc.wav" controls preload></audio> |
+| :--- | :--- |
+| **VQVC+** | <audio src="wavs/p292_418_p245_236/converted_vqvc+.wav" controls preload></audio> |
+| :--- | :--- |
+
 - - -
--
