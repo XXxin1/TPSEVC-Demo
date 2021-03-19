@@ -24,15 +24,59 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | **VQVC+** | <audio src="wavs/p249_169_p257_035/converted_vqvc+.wav" controls preload></audio> |
 | :--- | :--- |
 
-| **Source** | **Target** | **Ours Converted** | **Chou** | **AutoVC** |
-| :--- | :--- | :--- | :--- | :--- |
-| <audio src="all/all/unseen/p330_p347_3/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_3/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_3/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_3/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_3/autovc/source.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-| <audio src="all/all/unseen/p347_p330_2/source.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_2/target.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_2/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_2/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_2/autovc/source.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-| <audio src="all/all/unseen/p330_p347_1/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_1/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_1/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_1/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_1/autovc/source.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-| <audio src="all/all/unseen/p330_p361_1/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p361_1/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p361_1/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p361_1/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p361_1/autovc/source.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
-| <audio src="all/all/unseen/p347_p330_3/source.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_3/target.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_3/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_3/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_3/autovc/source.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- |
+- - -
+
+| **Transcription** | "Domestic orders have also fallen since January." |
+| :--- | :--- |
+| **Source** | <audio src="wavs/p264_135_p336_018/origin_source_p264_135.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target** | <audio src="wavs/p264_135_p336_018/origin_target_p336_018.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target (Vocoder)** | <audio src="wavs/p264_135_p336_018/vocoder_targetp336_018.wav" controls preload></audio> |
+| :--- | :--- |
+| **Ours** | <audio src="wavs/p264_135_p336_018/converted_proposed.wav" controls preload></audio> |
+| :--- | :--- |
+| **Chou et.al.** | <audio src="wavs/p264_135_p336_018/converted_adainvc.wav" controls preload></audio> |
+| :--- | :--- |
+| **AutoVC** | <audio src="wavs/p264_135_p336_018/converted_autovc.wav" controls preload></audio> |
+| :--- | :--- |
+| **VQVC+** | <audio src="wavs/p264_135_p336_018/converted_vqvc+.wav" controls preload></audio> |
+| :--- | :--- |
+
+- - -
+
+| **Transcription** | "The west coast line is not just for middle England." |
+| :--- | :--- |
+| **Source** | <audio src="wavs/p264_025_p271_194/origin_source_p264_025.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target** | <audio src="wavs/p264_025_p271_194/origin_target_p271_194.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target (Vocoder)** | <audio src="wavs/p264_025_p271_194/vocoder_targep271_194.wav" controls preload></audio> |
+| :--- | :--- |
+| **Ours** | <audio src="wavs/p264_025_p271_194/converted_proposed.wav" controls preload></audio> |
+| :--- | :--- |
+| **Chou et.al.** | <audio src="wavs/p264_025_p271_194/converted_adainvc.wav" controls preload></audio> |
+| :--- | :--- |
+| **AutoVC** | <audio src="wavs/p264_025_p271_194/converted_autovc.wav" controls preload></audio> |
+| :--- | :--- |
+| **VQVC+** | <audio src="wavs/p264_025_p271_194/converted_vqvc+.wav" controls preload></audio> |
+| :--- | :--- |
+
+- - -
+
+| **Transcription** | "This matter has still to come before the European Parliament." |
+| :--- | :--- |
+| **Source** | <audio src="wavs/p239_043_p255_090/origin_source_p239_043.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target** | <audio src="wavs/p239_043_p255_090/origin_target_p255_090.wav" controls preload></audio> |
+| :--- | :--- |
+| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_targep255_090.wav" controls preload></audio> |
+| :--- | :--- |
+| **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
+| :--- | :--- |
+| **Chou et.al.** | <audio src="wavs/p239_043_p255_090/converted_adainvc.wav" controls preload></audio> |
+| :--- | :--- |
+| **AutoVC** | <audio src="wavs/p239_043_p255_090/converted_autovc.wav" controls preload></audio> |
+| :--- | :--- |
+| **VQVC+** | <audio src="wavs/p239_043_p255_090/converted_vqvc+.wav" controls preload></audio> |
+| :--- | :--- |
