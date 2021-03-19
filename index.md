@@ -15,4 +15,16 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | **Chou et.al.** | <audio src="wavs/p249_169_p257_035/converted_adainvc.wav" controls preload></audio> |
 | **AutoVC** | <audio src="wavs/p249_169_p257_035/converted_autovc.wav" controls preload></audio> |
 | **VQVC+** | <audio src="wavs/p249_169_p257_035/converted_vqvc+.wav" controls preload></audio> |
-| --- | --- | 
+
+| **Source** | **Target** | **Ours Converted** | **Chou** | **AutoVC** |
+| :--- | :--- | :--- | :--- | :--- |
+| <audio src="all/all/unseen/p330_p347_3/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_3/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_3/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_3/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_3/autovc/source.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+| <audio src="all/all/unseen/p347_p330_2/source.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_2/target.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_2/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_2/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_2/autovc/source.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+| <audio src="all/all/unseen/p330_p347_1/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_1/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p347_1/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_1/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p347_1/autovc/source.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+| <audio src="all/all/unseen/p330_p361_1/source.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p361_1/target.wav" controls preload></audio> | <audio src="all/all/unseen/p330_p361_1/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p361_1/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p330_p361_1/autovc/source.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
+| <audio src="all/all/unseen/p347_p330_3/source.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_3/target.wav" controls preload></audio> | <audio src="all/all/unseen/p347_p330_3/conversion.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_3/adain/converted.wav" controls preload></audio> |<audio src="all/all/unseen/p347_p330_3/autovc/source.wav" controls preload></audio> |
+| --- | --- | --- | --- | --- |
