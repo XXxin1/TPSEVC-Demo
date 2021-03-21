@@ -71,7 +71,7 @@ Experimental results demonstrate that our method outperforms the state-of-the-ar
 | :--- | :--- |
 | **Target** | <audio src="wavs/p239_043_p255_090/origin_target_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_targep255_090.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_target_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
