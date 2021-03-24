@@ -1,7 +1,8 @@
 ## This is a demo webpage for paper "Two-Pathway Style Embedding for Arbitrary Voice Conversion"
 - - -
 ## Abstract
-Arbitrary voice conversion, in words, zero-shot voice conversion has attracted more attention of researchers. Although disentangling the linguistic and style representations for acoustic features is an effective way to achieve zero-shot voice conversion, how to convert a natural speaker style is challenging because the diversities of speech and the difficulties of completely decoupling.  For this, in this paper, we propose a Two-Pathway Style Embedding Voice Conversion framework (TPSE-VC) for realistic and natural speech conversion by simultaneously embedding sentence-level and phoneme-level style information. A novel attention mechanism is proposed  to attend to implement implicit alignment for style timber and content phoneme, and then embedding a phoneme-level style representation. In addition,  we consider embedding all time steps of style audio into a fixed-length vector to get the sentence-level style representation. Moreover TPSE-VC dose not require any pre-trained models, and is only trained with non-parallel data. Experimental results demonstrate that our method outperforms  state-of-the-art results on zero-shot voice conversion.
+Arbitrary voice conversion, in words, zero-shot voice conversion has attracted more attention from researchers. Although disentangling the linguistic and style representations for acoustic features is an effective way to achieve zero-shot voice conversion, how to convert a natural speaker style is challenging because of the diversities of speech and the difficulties of completely decoupling. For this, in this paper, we propose a Two-Pathway Style Embedding Voice Conversion framework (TPSE-VC) for realistic and natural speech conversion by simultaneously embedding sentence-level and phoneme-level style information. A novel attention mechanism is proposed to implement implicit alignment for style timber and content phoneme, and then embedding a phoneme-level style representation. In addition,  we consider embedding all time steps of style audio into a fixed-length vector to get the sentence-level style representation. Moreover, TPSE-VC does not require any pre-trained models, and is only trained with non-parallel data. 
+Experimental results demonstrate that our method outperforms the state-of-the-art results on zero-shot voice conversion.
 - - -
 
 
@@ -70,7 +71,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Target** | <audio src="wavs/p239_043_p255_090/origin_target_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_targe_p255_090.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_target_p255_090.wav" controls preload></audio> |
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
@@ -171,7 +172,7 @@ Arbitrary voice conversion, in words, zero-shot voice conversion has attracted m
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p249_173_p247_449/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **-adv** | <audio src="wavs/p249_173_p247_449/converted_adainvc.wav" controls preload></audio> |
+| **-adv** | <audio src="wavs/p249_173_p247_449/-adv.wav" controls preload></audio> |
 | :--- | :--- |
 | **-sentence** | <audio src="wavs/p249_173_p247_449/-sentence.wav" controls preload></audio> |
 | :--- | :--- |
