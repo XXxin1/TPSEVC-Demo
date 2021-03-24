@@ -162,21 +162,21 @@ Experimental results demonstrate that our method outperforms the state-of-the-ar
 
 ### Ablation Study
 
-| **Transcription** | "It is not too late to get on board." |
+| **Transcription** | "The decision was announced at its annual conference in Dunfermline." |
 | :--- | :--- |
-| **Source** | <audio src="wavs/p249_173_p247_449/origin_source_p249_173.wav" controls preload></audio> |
+| **Source** | <audio src="wavs/p285_270_p345_012/origin_source_p285_270.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target** | <audio src="wavs/p249_173_p247_449/origin_target_p247_449.wav" controls preload></audio> |
+| **Target** | <audio src="wavs/p285_270_p345_012/origin_target_p345_012.wav" controls preload></audio> |
 | :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p249_173_p247_449/vocoder_targetp247_449.wav" controls preload></audio> |
+| **Target (Vocoder)** | <audio src="wavs/p285_270_p345_012/vocoder_target_p345_012.wav" controls preload></audio> |
 | :--- | :--- |
-| **Ours** | <audio src="wavs/p249_173_p247_449/converted_proposed.wav" controls preload></audio> |
+| **Ours** | <audio src="wavs/p285_270_p345_012/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **-adv** | <audio src="wavs/p249_173_p247_449/-adv.wav" controls preload></audio> |
+| **-adv** | <audio src="wavs/p285_270_p345_012/-adv.wav" controls preload></audio> |
 | :--- | :--- |
-| **-sentence** | <audio src="wavs/p249_173_p247_449/-sentence.wav" controls preload></audio> |
+| **-sentence** | <audio src="wavs/p285_270_p345_012/-sentence.wav" controls preload></audio> |
 | :--- | :--- |
-| **-phoneme** | <audio src="wavs/p249_173_p247_449/-phoneme.wav" controls preload></audio> |
+| **-phoneme** | <audio src="wavs/p285_270_p345_012/-phoneme.wav" controls preload></audio> |
 | :--- | :--- |
 
 - - -
