@@ -17,7 +17,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p249_169_p257_035/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p249_169_p257_035/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p249_169_p257_035/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p249_169_p257_035/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -36,7 +36,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p264_135_p336_018/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p264_135_p336_018/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p264_135_p336_018/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p264_135_p336_018/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p264_025_p271_194/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p264_025_p271_194/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p264_025_p271_194/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p264_025_p271_194/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -74,7 +74,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p239_043_p255_090/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p239_043_p255_090/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p239_043_p255_090/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -93,7 +93,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p255_002_p249_164/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p255_002_p249_164/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p255_002_p249_164/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p255_002_p249_164/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p255_034_p295_084/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p255_034_p295_084/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p255_034_p295_084/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p255_034_p295_084/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -131,7 +131,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p272_353_p292_078/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p272_353_p292_078/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p272_353_p292_078/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p272_353_p292_078/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
@@ -150,7 +150,7 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | :--- | :--- |
 | **Ours** | <audio src="wavs/p292_418_p245_236/converted_proposed.wav" controls preload></audio> |
 | :--- | :--- |
-| **Chou et.al.** | <audio src="wavs/p292_418_p245_236/converted_adainvc.wav" controls preload></audio> |
+| **AdaIN-VC** | <audio src="wavs/p292_418_p245_236/converted_adainvc.wav" controls preload></audio> |
 | :--- | :--- |
 | **AutoVC** | <audio src="wavs/p292_418_p245_236/converted_autovc.wav" controls preload></audio> |
 | :--- | :--- |
