@@ -7,24 +7,6 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 
 ### Demo Utterances (Note all the speakers of sampled utterances are unseen in training stage)
 
-| **Transcription** | "They say that vital evidence was not heard in the court." |
-| :--- | :--- |
-| **Source** | <audio src="wavs/p249_169_p257_035/origin_source_p249_169.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target** | <audio src="wavs/p249_169_p257_035/origin_target_p257_035.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p249_169_p257_035/vocoder_targetp257_035.wav" controls preload></audio> |
-| :--- | :--- |
-| **Ours** | <audio src="wavs/p249_169_p257_035/converted_proposed.wav" controls preload></audio> |
-| :--- | :--- |
-| **AdaIN-VC** | <audio src="wavs/p249_169_p257_035/converted_adainvc.wav" controls preload></audio> |
-| :--- | :--- |
-| **AutoVC** | <audio src="wavs/p249_169_p257_035/converted_autovc.wav" controls preload></audio> |
-| :--- | :--- |
-| **VQVC+** | <audio src="wavs/p249_169_p257_035/converted_vqvc+.wav" controls preload></audio> |
-| :--- | :--- |
-
-- - -
 
 | **Transcription** | "Domestic orders have also fallen since January." |
 | :--- | :--- |
@@ -62,24 +44,6 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | **VQVC+** | <audio src="wavs/p264_025_p271_194/converted_vqvc+.wav" controls preload></audio> |
 | :--- | :--- |
 
-- - -
-
-| **Transcription** | "This matter has still to come before the European Parliament." |
-| :--- | :--- |
-| **Source** | <audio src="wavs/p239_043_p255_090/origin_source_p239_043.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target** | <audio src="wavs/p239_043_p255_090/origin_target_p255_090.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p239_043_p255_090/vocoder_target_p255_090.wav" controls preload></audio> |
-| :--- | :--- |
-| **Ours** | <audio src="wavs/p239_043_p255_090/converted_proposed.wav" controls preload></audio> |
-| :--- | :--- |
-| **AdaIN-VC** | <audio src="wavs/p239_043_p255_090/converted_adainvc.wav" controls preload></audio> |
-| :--- | :--- |
-| **AutoVC** | <audio src="wavs/p239_043_p255_090/converted_autovc.wav" controls preload></audio> |
-| :--- | :--- |
-| **VQVC+** | <audio src="wavs/p239_043_p255_090/converted_vqvc+.wav" controls preload></audio> |
-| :--- | :--- |
 
 - - -
 
@@ -100,43 +64,6 @@ Arbitrary voice conversion, also referred to as zero-shot voice conversion, has 
 | **VQVC+** | <audio src="wavs/p255_002_p249_164/converted_vqvc+.wav" controls preload></audio> |
 | :--- | :--- |
 
-- - -
-
-| **Transcription** | "In both cases, I suffered a fiasco. " |
-| :--- | :--- |
-| **Source** | <audio src="wavs/p255_034_p295_084/origin_source_p255_034.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target** | <audio src="wavs/p255_034_p295_084/origin_target_p295_084.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p255_034_p295_084/vocoder_targetp295_084.wav" controls preload></audio> |
-| :--- | :--- |
-| **Ours** | <audio src="wavs/p255_034_p295_084/converted_proposed.wav" controls preload></audio> |
-| :--- | :--- |
-| **AdaIN-VC** | <audio src="wavs/p255_034_p295_084/converted_adainvc.wav" controls preload></audio> |
-| :--- | :--- |
-| **AutoVC** | <audio src="wavs/p255_034_p295_084/converted_autovc.wav" controls preload></audio> |
-| :--- | :--- |
-| **VQVC+** | <audio src="wavs/p255_034_p295_084/converted_vqvc+.wav" controls preload></audio> |
-| :--- | :--- |
-
-- - -
-
-| **Transcription** | "There was a substantial explosion." |
-| :--- | :--- |
-| **Source** | <audio src="wavs/p272_353_p292_078/origin_source_p272_353.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target** | <audio src="wavs/p272_353_p292_078/origin_target_p292_078.wav" controls preload></audio> |
-| :--- | :--- |
-| **Target (Vocoder)** | <audio src="wavs/p272_353_p292_078/vocoder_targetp292_078.wav" controls preload></audio> |
-| :--- | :--- |
-| **Ours** | <audio src="wavs/p272_353_p292_078/converted_proposed.wav" controls preload></audio> |
-| :--- | :--- |
-| **AdaIN-VC** | <audio src="wavs/p272_353_p292_078/converted_adainvc.wav" controls preload></audio> |
-| :--- | :--- |
-| **AutoVC** | <audio src="wavs/p272_353_p292_078/converted_autovc.wav" controls preload></audio> |
-| :--- | :--- |
-| **VQVC+** | <audio src="wavs/p272_353_p292_078/converted_vqvc+.wav" controls preload></audio> |
-| :--- | :--- |
 
 - - -
 
